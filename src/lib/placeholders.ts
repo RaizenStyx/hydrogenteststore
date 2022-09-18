@@ -14,11 +14,11 @@ const PLACEHOLDERS = {
           mediaContentType: 'IMAGE',
           alt: 'Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.',
           previewImage: {
-            url: 'https://cdn.shopify.com/s/files/1/0549/4027/0664/files/new.jpg?v=1659543437',
+            url: 'https://cdn.shopify.com/s/files/1/0575/4421/2580/files/collage.jpg?v=1648433400',
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0549/4027/0664/files/new.jpg?v=1659543437',
+            url: 'https://cdn.shopify.com/s/files/1/0575/4421/2580/files/collage.jpg?v=1648433400',
             width: 5000,
             height: 3155,
           },
